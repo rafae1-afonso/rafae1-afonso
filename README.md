@@ -1,6 +1,6 @@
 ### Olá!
 
-Me chamo Rafael, sou um estudante de programação.
+Me chamo **Rafael**, sou um estudante de programação.
 
 * Já tenho bastante conhecimento em lógica de programação.
 * A linguagem que mais tenho domínio é a Lua.
