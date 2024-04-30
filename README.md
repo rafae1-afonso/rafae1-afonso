@@ -3,7 +3,7 @@
 Me chamo **Rafael**, sou um estudante de programação.
 
 * Já tenho bastante conhecimento em lógica de programação.
-* A linguagem que mais tenho domínio é a Lua.
+* A linguagem que mais tenho domino é a Lua.
 * Atualmente estou estudando na Alura.
 
 <!--
