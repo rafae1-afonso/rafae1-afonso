@@ -3,7 +3,7 @@
 Me chamo **Rafael**, sou um estudante de programação.
 
 * Já tenho bastante conhecimento em lógica de programação.
-* A linguagem que mais tenho domino é a Lua.
+* Trabalha bastante com Lua na Engine do Roblox, o Roblox Studio.
 * Atualmente estou estudando na Alura.
 
 <!--
