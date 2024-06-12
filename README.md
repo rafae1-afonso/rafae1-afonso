@@ -3,8 +3,8 @@
 Me chamo **Rafael**, sou um estudante de programação.
 
 * Já tenho bastante conhecimento em lógica de programação.
-* Trabalha bastante com Lua na Engine do Roblox, o Roblox Studio.
-* Atualmente estou estudando na Alura.
+* Trabalho bastante com Lua na Engine do Roblox, o Roblox Studio.
+* Tenho mais conhecimento em Front-End e pretendo me tornar FullStack no futuro.
 
 <!--
 **rafae1-afonso/rafae1-afonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
