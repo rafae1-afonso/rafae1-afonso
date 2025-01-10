@@ -3,7 +3,6 @@
 Me chamo **Rafael**, sou um estudante de programação.
 
 * Já tenho bastante conhecimento em lógica de programação.
-* Trabalho bastante com Lua na Engine do Roblox, o Roblox Studio.
 * Tenho mais conhecimento em Front-End e pretendo me tornar FullStack no futuro.
 
 <!--
