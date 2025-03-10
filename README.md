@@ -1,8 +1,9 @@
 ### Olá!
 
-Me chamo **Rafael**, sou um estudante de programação.
+Me chamo **Rafael**, sou um interessado na área de TI.
 
-* Já tenho bastante conhecimento em lógica de programação.
+* Sou desenvolvedor focado em Web,
+* Atualmente estou estudando na Alura,
 * Tenho mais conhecimento em Front-End e pretendo me tornar FullStack no futuro.
 
 <!--
