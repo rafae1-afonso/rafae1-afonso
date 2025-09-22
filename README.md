@@ -1,4 +1,4 @@
-# Rafael Afonso
+# 💿 Rafael Afonso
 
 **`Desenvolvedor Front-End`**
 
@@ -11,21 +11,28 @@ Estou sempre em busca de oportunidades para colaborar em novos projetos.
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rafae1-afonso?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/rafae1-afonso?color=2e3440&style=for-the-badge&labelColor=434C5D&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/rafae1-afonso?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rafae1-afonso?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/rafae1-afonso?color=2e3440&labelColor=434C5D&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+        <a href="https://www.linkedin.com/in/rafaelafonsofl">
+        <img 
+            alt="Linkedin" 
+            title="Meu pefil do Linkedin" 
+            src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue?logoSource=feather&color=0B6BBF&style=for-the-badge&logo=linkedin"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -119,14 +126,14 @@ Estou sempre em busca de oportunidades para colaborar em novos projetos.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rafae1-afonso&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=rafae1-afonso&show_icons=true&theme=nord&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafae1-afonso&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafae1-afonso&theme=nord&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
