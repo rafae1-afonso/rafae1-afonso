@@ -3,7 +3,7 @@
 **`Desenvolvedor Front-End`**
 
 Olá, me chamo **Rafael Afonso Ferreira de Lima**, tenho 17 anos, sou um estudante do ensino médio e atualmente estou indo para o terceiro e último ano.
-Ultimamente venho estudando desenvolvimento web em geral pela plataforma **Alura** e futuramente pretendo fazer uma faculdade na área.
+Ultimamente venho estudando desenvolvimento web e futuramente pretendo fazer uma faculdade de Ciência da Computação.
 Estou sempre em busca de oportunidades para colaborar em novos projetos.
 
 <p align="left">
