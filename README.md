@@ -32,6 +32,17 @@ Estou sempre em busca de oportunidades para colaborar em novos projetos.
 
 ---
 
+### 🧾 Portfólio
+
+<a href="https://github.com/rafae1-afonso/portfolio.exe">
+  <img 
+    alt="Portfólio" 
+    height="200" 
+    style="" 
+    src="https://github-readme-stats.vercel.app/api/pin?username=rafae1-afonso&repo=meu-portfolio-dev&theme=nord" 
+  />
+</a>
+
 ### 💻 Linguagens e Tecnologias
 
 <img 
