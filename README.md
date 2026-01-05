@@ -34,7 +34,7 @@ Estou sempre em busca de oportunidades para colaborar em novos projetos.
 
 ### 🧾 Portfólio
 
-<a href="https://github.com/rafae1-afonso/portfolio.exe">
+<a href="https://github.com/rafae1-afonso/rafonso.dev-portfolio">
   <img 
     alt="Portfólio" 
     height="200" 
